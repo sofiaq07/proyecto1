@@ -1,0 +1,36 @@
+p {color: red;
+width: 300px}
+
+h1 {
+    font-family:'Roboto', sans-serif;
+    border: 5px groove pink;
+    padding: 10px;
+   /** margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px; */
+    color: blue;
+
+    margin: 40px 20px 10px 50px;
+}
+
+/**
+Esto es un comentario en css
+*/
+
+Section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #Mi_parrafo {
+    color:blueviolet
+  }
+
+  .miclase {
+    font-weight: 400px;
+    color: green;
+    border: 5px solid black;
+  }
